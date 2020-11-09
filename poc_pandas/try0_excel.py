@@ -39,16 +39,18 @@ df = pd.read_excel(excelpath,sheet_name=['Students'],usecols=[2,3],skiprows=[0])
 print(df)
 
 #try(4)
-print("\n---try(3)---")
+print("\n---try(4)---")
 df = pd.read_excel(excelpath,sheet_name=['Students'],usecols=[2,3],skiprows=[0])
 print(df)
 
+'''
 OrderedDict(
     [('Students',xxxxx)]
-)
+)'''
 
 print("\n***changed dataframe***")
 df2 = pd.DataFrame(df['Students'])
+print(df2)
 #纯粹的dataframe
 
 
