@@ -1,0 +1,334 @@
+oreID,oreName,oreNameZh,oreVolume,orePortionSize,oreMass,oreCapacity,mineralID,mineralName,materialNameZh,mineralVolume,mineralPortionSize,mineralMass,mineralCapacity,extractQuantity
+18,Plagioclase,斜长岩,0.35,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,175
+18,Plagioclase,斜长岩,0.35,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,70
+19,Spodumain,灰岩,16,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,48000
+19,Spodumain,灰岩,16,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1000
+19,Spodumain,灰岩,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,160
+19,Spodumain,灰岩,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,80
+19,Spodumain,灰岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,40
+20,Kernite,水硼砂,1.2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,60
+20,Kernite,水硼砂,1.2,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,120
+21,Hedbergite,同位原矿,3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,450
+21,Hedbergite,同位原矿,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,120
+22,Arkonor,艾克诺岩,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3200
+22,Arkonor,艾克诺岩,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1200
+22,Arkonor,艾克诺岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,120
+1223,Bistot,双多特石,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3200
+1223,Bistot,双多特石,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1200
+1223,Bistot,双多特石,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,160
+1224,Pyroxeres,干焦岩,0.3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,90
+1224,Pyroxeres,干焦岩,0.3,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,30
+1225,Crokite,克洛基石,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,800
+1225,Crokite,克洛基石,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,2000
+1225,Crokite,克洛基石,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,800
+1226,Jaspet,杰斯贝矿,2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,150
+1226,Jaspet,杰斯贝矿,2,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,50
+1227,Omber,奥贝尔石,0.6,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,90
+1227,Omber,奥贝尔石,0.6,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,75
+1228,Scordite,灼烧岩,0.15,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,150
+1228,Scordite,灼烧岩,0.15,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,90
+1229,Gneiss,片麻岩,5,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2000
+1229,Gneiss,片麻岩,5,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1500
+1229,Gneiss,片麻岩,5,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,800
+1230,Veldspar,凡晶石,0.1,100,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,400
+1231,Hemorphite,希莫非特,3,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,240
+1231,Hemorphite,希莫非特,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,90
+1232,"Dark Ochre",黑赭石,8,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1360
+1232,"Dark Ochre",黑赭石,8,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1200
+1232,"Dark Ochre",黑赭石,8,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,320
+11396,Mercoxit,基腹断岩,40,100,1e35,0,11399,Morphite,莫尔石,0.01,1,0,0,140
+17425,"Crimson Arkonor",红色艾克诺岩,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3360
+17425,"Crimson Arkonor",红色艾克诺岩,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1260
+17425,"Crimson Arkonor",红色艾克诺岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,126
+17426,"Prime Arkonor",艾克诺精华岩,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3520
+17426,"Prime Arkonor",艾克诺精华岩,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1320
+17426,"Prime Arkonor",艾克诺精华岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,132
+17428,"Triclinic Bistot",三晶双多特斜岩,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3360
+17428,"Triclinic Bistot",三晶双多特斜岩,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1260
+17428,"Triclinic Bistot",三晶双多特斜岩,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,168
+17429,"Monoclinic Bistot",单晶双多特斜岩,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3520
+17429,"Monoclinic Bistot",单晶双多特斜岩,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1320
+17429,"Monoclinic Bistot",单晶双多特斜岩,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,176
+17432,"Sharp Crokite",斜克洛基石,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,840
+17432,"Sharp Crokite",斜克洛基石,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,2100
+17432,"Sharp Crokite",斜克洛基石,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,840
+17433,"Crystalline Crokite",克洛基水晶,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,880
+17433,"Crystalline Crokite",克洛基水晶,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,2200
+17433,"Crystalline Crokite",克洛基水晶,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,880
+17436,"Onyx Ochre",条纹赭,8,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1428
+17436,"Onyx Ochre",条纹赭,8,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1260
+17436,"Onyx Ochre",条纹赭,8,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,336
+17437,"Obsidian Ochre",黑曜赭石,8,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1496
+17437,"Obsidian Ochre",黑曜赭石,8,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1320
+17437,"Obsidian Ochre",黑曜赭石,8,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,352
+17440,"Vitric Hedbergite",玻璃状同位原矿,3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,473
+17440,"Vitric Hedbergite",玻璃状同位原矿,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,126
+17441,"Glazed Hedbergite",光面同位原矿,3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,495
+17441,"Glazed Hedbergite",光面同位原矿,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,132
+17444,"Vivid Hemorphite",多色希莫非特,3,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,252
+17444,"Vivid Hemorphite",多色希莫非特,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,95
+17445,"Radiant Hemorphite",辐射希莫非特,3,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,264
+17445,"Radiant Hemorphite",辐射希莫非特,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,99
+17448,"Pure Jaspet",纯杰斯贝矿,2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,158
+17448,"Pure Jaspet",纯杰斯贝矿,2,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,53
+17449,"Pristine Jaspet",朴质杰斯贝矿,2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,165
+17449,"Pristine Jaspet",朴质杰斯贝矿,2,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,55
+17452,"Luminous Kernite",发光水硼砂,1.2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,63
+17452,"Luminous Kernite",发光水硼砂,1.2,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,126
+17453,"Fiery Kernite",灼热水硼砂,1.2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,66
+17453,"Fiery Kernite",灼热水硼砂,1.2,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,132
+17455,"Azure Plagioclase",蓝色斜长岩,0.35,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,184
+17455,"Azure Plagioclase",蓝色斜长岩,0.35,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,74
+17456,"Rich Plagioclase",富斜长岩,0.35,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,193
+17456,"Rich Plagioclase",富斜长岩,0.35,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,77
+17459,"Solid Pyroxeres",固体干焦岩,0.3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,95
+17459,"Solid Pyroxeres",固体干焦岩,0.3,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,32
+17460,"Viscous Pyroxeres",流体干焦岩,0.3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,99
+17460,"Viscous Pyroxeres",流体干焦岩,0.3,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,33
+17463,"Condensed Scordite",浓缩灼烧岩,0.15,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,158
+17463,"Condensed Scordite",浓缩灼烧岩,0.15,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,95
+17464,"Massive Scordite",厚灼烧岩,0.15,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,165
+17464,"Massive Scordite",厚灼烧岩,0.15,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,99
+17466,"Bright Spodumain",亮灰岩,16,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,50400
+17466,"Bright Spodumain",亮灰岩,16,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1050
+17466,"Bright Spodumain",亮灰岩,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,168
+17466,"Bright Spodumain",亮灰岩,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,84
+17466,"Bright Spodumain",亮灰岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,42
+17467,"Gleaming Spodumain",发光灰岩,16,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,52800
+17467,"Gleaming Spodumain",发光灰岩,16,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1100
+17467,"Gleaming Spodumain",发光灰岩,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,176
+17467,"Gleaming Spodumain",发光灰岩,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,88
+17467,"Gleaming Spodumain",发光灰岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,44
+17470,"Concentrated Veldspar",富凡晶石,0.1,100,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,420
+17471,"Dense Veldspar",厚质凡晶石,0.1,100,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,440
+17865,"Iridescent Gneiss",彩色片麻岩,5,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2100
+17865,"Iridescent Gneiss",彩色片麻岩,5,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1575
+17865,"Iridescent Gneiss",彩色片麻岩,5,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,840
+17866,"Prismatic Gneiss",棱柱片麻岩,5,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2200
+17866,"Prismatic Gneiss",棱柱片麻岩,5,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1650
+17866,"Prismatic Gneiss",棱柱片麻岩,5,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,880
+17867,"Silvery Omber",银色奥贝尔石,0.6,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,95
+17867,"Silvery Omber",银色奥贝尔石,0.6,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,79
+17868,"Golden Omber",金色奥贝尔石,0.6,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,99
+17868,"Golden Omber",金色奥贝尔石,0.6,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,83
+17869,"Magma Mercoxit",基腹断岩岩浆,40,100,1e35,0,11399,Morphite,莫尔石,0.01,1,0,0,147
+17870,"Vitreous Mercoxit",玻璃化基腹断岩,40,100,1e35,0,11399,Morphite,莫尔石,0.01,1,0,0,154
+28367,"Compressed Arkonor",高密度艾克诺岩,8.8,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3200
+28367,"Compressed Arkonor",高密度艾克诺岩,8.8,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1200
+28367,"Compressed Arkonor",高密度艾克诺岩,8.8,1,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,120
+28385,"Compressed Crimson Arkonor",高密度红色艾克诺岩,8.8,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3360
+28385,"Compressed Crimson Arkonor",高密度红色艾克诺岩,8.8,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1260
+28385,"Compressed Crimson Arkonor",高密度红色艾克诺岩,8.8,1,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,126
+28387,"Compressed Prime Arkonor",高密度艾克诺精华岩,8.8,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3520
+28387,"Compressed Prime Arkonor",高密度艾克诺精华岩,8.8,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1320
+28387,"Compressed Prime Arkonor",高密度艾克诺精华岩,8.8,1,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,132
+28388,"Compressed Bistot",高密度双多特石,4.4,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3200
+28388,"Compressed Bistot",高密度双多特石,4.4,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1200
+28388,"Compressed Bistot",高密度双多特石,4.4,1,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,160
+28389,"Compressed Monoclinic Bistot",高密度单晶双多特斜岩,4.4,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3520
+28389,"Compressed Monoclinic Bistot",高密度单晶双多特斜岩,4.4,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1320
+28389,"Compressed Monoclinic Bistot",高密度单晶双多特斜岩,4.4,1,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,176
+28390,"Compressed Triclinic Bistot",高密度三晶双多特斜岩,4.4,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3360
+28390,"Compressed Triclinic Bistot",高密度三晶双多特斜岩,4.4,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1260
+28390,"Compressed Triclinic Bistot",高密度三晶双多特斜岩,4.4,1,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,168
+28391,"Compressed Crokite",高密度克洛基石,7.81,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,800
+28391,"Compressed Crokite",高密度克洛基石,7.81,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,2000
+28391,"Compressed Crokite",高密度克洛基石,7.81,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,800
+28392,"Compressed Crystalline Crokite",高密度克洛基水晶,7.81,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,880
+28392,"Compressed Crystalline Crokite",高密度克洛基水晶,7.81,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,2200
+28392,"Compressed Crystalline Crokite",高密度克洛基水晶,7.81,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,880
+28393,"Compressed Sharp Crokite",高密度斜克洛基石,7.81,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,840
+28393,"Compressed Sharp Crokite",高密度斜克洛基石,7.81,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,2100
+28393,"Compressed Sharp Crokite",高密度斜克洛基石,7.81,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,840
+28394,"Compressed Dark Ochre",高密度黑赭石,4.2,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1360
+28394,"Compressed Dark Ochre",高密度黑赭石,4.2,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1200
+28394,"Compressed Dark Ochre",高密度黑赭石,4.2,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,320
+28395,"Compressed Obsidian Ochre",高密度黑曜赭石,4.2,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1496
+28395,"Compressed Obsidian Ochre",高密度黑曜赭石,4.2,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1320
+28395,"Compressed Obsidian Ochre",高密度黑曜赭石,4.2,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,352
+28396,"Compressed Onyx Ochre",高密度条纹赭,4.2,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1428
+28396,"Compressed Onyx Ochre",高密度条纹赭,4.2,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1260
+28396,"Compressed Onyx Ochre",高密度条纹赭,4.2,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,336
+28397,"Compressed Gneiss",高密度片麻岩,1.8,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2000
+28397,"Compressed Gneiss",高密度片麻岩,1.8,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1500
+28397,"Compressed Gneiss",高密度片麻岩,1.8,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,800
+28398,"Compressed Iridescent Gneiss",高密度彩色片麻岩,1.8,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2100
+28398,"Compressed Iridescent Gneiss",高密度彩色片麻岩,1.8,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1575
+28398,"Compressed Iridescent Gneiss",高密度彩色片麻岩,1.8,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,840
+28399,"Compressed Prismatic Gneiss",高密度棱柱片麻岩,1.8,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2200
+28399,"Compressed Prismatic Gneiss",高密度棱柱片麻岩,1.8,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1650
+28399,"Compressed Prismatic Gneiss",高密度棱柱片麻岩,1.8,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,880
+28400,"Compressed Glazed Hedbergite",高密度光面同位原矿,0.47,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,495
+28400,"Compressed Glazed Hedbergite",高密度光面同位原矿,0.47,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,132
+28401,"Compressed Hedbergite",高密度同位原矿,0.47,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,450
+28401,"Compressed Hedbergite",高密度同位原矿,0.47,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,120
+28402,"Compressed Vitric Hedbergite",高密度玻璃状同位原矿,0.47,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,473
+28402,"Compressed Vitric Hedbergite",高密度玻璃状同位原矿,0.47,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,126
+28403,"Compressed Hemorphite",高密度希莫非特,0.86,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,240
+28403,"Compressed Hemorphite",高密度希莫非特,0.86,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,90
+28404,"Compressed Radiant Hemorphite",高密度辐射希莫非特,0.86,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,264
+28404,"Compressed Radiant Hemorphite",高密度辐射希莫非特,0.86,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,99
+28405,"Compressed Vivid Hemorphite",高密度多色希莫非特,0.86,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,252
+28405,"Compressed Vivid Hemorphite",高密度多色希莫非特,0.86,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,95
+28406,"Compressed Jaspet",高密度杰斯贝矿,0.15,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,150
+28406,"Compressed Jaspet",高密度杰斯贝矿,0.15,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,50
+28407,"Compressed Pristine Jaspet",高密度朴质杰斯贝矿,0.15,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,165
+28407,"Compressed Pristine Jaspet",高密度朴质杰斯贝矿,0.15,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,55
+28408,"Compressed Pure Jaspet",高密度纯杰斯贝矿,0.15,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,158
+28408,"Compressed Pure Jaspet",高密度纯杰斯贝矿,0.15,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,53
+28409,"Compressed Fiery Kernite",高密度灼热水硼砂,0.19,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,66
+28409,"Compressed Fiery Kernite",高密度灼热水硼砂,0.19,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,132
+28410,"Compressed Kernite",高密度水硼砂,0.19,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,60
+28410,"Compressed Kernite",高密度水硼砂,0.19,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,120
+28411,"Compressed Luminous Kernite",高密度发光水硼砂,0.19,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,63
+28411,"Compressed Luminous Kernite",高密度发光水硼砂,0.19,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,126
+28412,"Compressed Magma Mercoxit",高密度基腹断岩岩浆,0.1,1,1e35,0,11399,Morphite,莫尔石,0.01,1,0,0,147
+28413,"Compressed Mercoxit",高密度基腹断岩,0.1,1,1e35,0,11399,Morphite,莫尔石,0.01,1,0,0,140
+28414,"Compressed Vitreous Mercoxit",高密度玻璃化基腹断岩,0.1,1,1e35,0,11399,Morphite,莫尔石,0.01,1,0,0,154
+28415,"Compressed Golden Omber",高密度金色奥贝尔石,0.3,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,99
+28415,"Compressed Golden Omber",高密度金色奥贝尔石,0.3,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,83
+28416,"Compressed Omber",高密度奥贝尔石,0.3,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,90
+28416,"Compressed Omber",高密度奥贝尔石,0.3,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,75
+28417,"Compressed Silvery Omber",高密度银色奥贝尔石,0.3,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,95
+28417,"Compressed Silvery Omber",高密度银色奥贝尔石,0.3,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,79
+28418,"Compressed Bright Spodumain",高密度亮灰岩,28,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,50400
+28418,"Compressed Bright Spodumain",高密度亮灰岩,28,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1050
+28418,"Compressed Bright Spodumain",高密度亮灰岩,28,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,168
+28418,"Compressed Bright Spodumain",高密度亮灰岩,28,1,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,84
+28418,"Compressed Bright Spodumain",高密度亮灰岩,28,1,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,42
+28419,"Compressed Gleaming Spodumain",高密度发光灰岩,28,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,52800
+28419,"Compressed Gleaming Spodumain",高密度发光灰岩,28,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1100
+28419,"Compressed Gleaming Spodumain",高密度发光灰岩,28,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,176
+28419,"Compressed Gleaming Spodumain",高密度发光灰岩,28,1,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,88
+28419,"Compressed Gleaming Spodumain",高密度发光灰岩,28,1,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,44
+28420,"Compressed Spodumain",高密度灰岩,28,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,48000
+28420,"Compressed Spodumain",高密度灰岩,28,1,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1000
+28420,"Compressed Spodumain",高密度灰岩,28,1,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,160
+28420,"Compressed Spodumain",高密度灰岩,28,1,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,80
+28420,"Compressed Spodumain",高密度灰岩,28,1,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,40
+28421,"Compressed Azure Plagioclase",高密度蓝色斜长岩,0.15,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,184
+28421,"Compressed Azure Plagioclase",高密度蓝色斜长岩,0.15,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,74
+28422,"Compressed Plagioclase",高密度斜长岩,0.15,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,175
+28422,"Compressed Plagioclase",高密度斜长岩,0.15,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,70
+28423,"Compressed Rich Plagioclase",高密度富斜长岩,0.15,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,193
+28423,"Compressed Rich Plagioclase",高密度富斜长岩,0.15,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,77
+28424,"Compressed Pyroxeres",高密度干焦岩,0.16,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,90
+28424,"Compressed Pyroxeres",高密度干焦岩,0.16,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,30
+28425,"Compressed Solid Pyroxeres",高密度固体干焦岩,0.16,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,95
+28425,"Compressed Solid Pyroxeres",高密度固体干焦岩,0.16,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,32
+28426,"Compressed Viscous Pyroxeres",高密度流体干焦岩,0.16,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,99
+28426,"Compressed Viscous Pyroxeres",高密度流体干焦岩,0.16,1,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,33
+28427,"Compressed Condensed Scordite",高密度浓缩灼烧岩,0.19,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,158
+28427,"Compressed Condensed Scordite",高密度浓缩灼烧岩,0.19,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,95
+28428,"Compressed Massive Scordite",高密度厚灼烧岩,0.19,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,165
+28428,"Compressed Massive Scordite",高密度厚灼烧岩,0.19,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,99
+28429,"Compressed Scordite",高密度灼烧岩,0.19,1,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,150
+28429,"Compressed Scordite",高密度灼烧岩,0.19,1,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,90
+28430,"Compressed Concentrated Veldspar",高密度富凡晶石,0.15,1,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,420
+28431,"Compressed Dense Veldspar",高密度厚质凡晶石,0.15,1,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,440
+28432,"Compressed Veldspar",高密度凡晶石,0.15,1,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,400
+46675,"Jet Ochre",墨黑赭石,8,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1564
+46675,"Jet Ochre",墨黑赭石,8,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1380
+46675,"Jet Ochre",墨黑赭石,8,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,368
+46676,"Cubic Bistot",双多特石立方体,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3680
+46676,"Cubic Bistot",双多特石立方体,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1380
+46676,"Cubic Bistot",双多特石立方体,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,184
+46677,"Pellucid Crokite",透明克洛基石,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,920
+46677,"Pellucid Crokite",透明克洛基石,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,2300
+46677,"Pellucid Crokite",透明克洛基石,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,920
+46678,"Flawless Arkonor",无暇艾克诺岩,16,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3680
+46678,"Flawless Arkonor",无暇艾克诺岩,16,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1380
+46678,"Flawless Arkonor",无暇艾克诺岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,138
+46679,"Brilliant Gneiss",光辉片麻岩,5,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2300
+46679,"Brilliant Gneiss",光辉片麻岩,5,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,1725
+46679,"Brilliant Gneiss",光辉片麻岩,5,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,920
+46680,"Lustrous Hedbergite",光辉同位原矿,3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,518
+46680,"Lustrous Hedbergite",光辉同位原矿,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,138
+46681,"Scintillating Hemorphite",闪烁希莫非特,3,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,276
+46681,"Scintillating Hemorphite",闪烁希莫非特,3,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,104
+46682,"Immaculate Jaspet",洁净杰斯贝矿,2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,173
+46682,"Immaculate Jaspet",洁净杰斯贝矿,2,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,58
+46683,"Resplendant Kernite",华丽水硼砂,1.2,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,69
+46683,"Resplendant Kernite",华丽水硼砂,1.2,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,138
+46684,"Platinoid Omber",铂族奥贝尔石,0.6,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,104
+46684,"Platinoid Omber",铂族奥贝尔石,0.6,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,86
+46685,"Sparkling Plagioclase",闪耀斜长岩,0.35,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,201
+46685,"Sparkling Plagioclase",闪耀斜长岩,0.35,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,81
+46686,"Opulent Pyroxeres",丰裕干焦岩,0.3,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,104
+46686,"Opulent Pyroxeres",丰裕干焦岩,0.3,100,1e35,0,36,Mexallon,类银超金属,0.01,1,0,0,35
+46687,"Glossy Scordite",光泽灼烧岩,0.15,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,173
+46687,"Glossy Scordite",光泽灼烧岩,0.15,100,1e35,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,104
+46688,"Dazzling Spodumain",璀璨灰岩,16,100,1e35,0,34,Tritanium,三钛合金,0.01,1,0,0,55200
+46688,"Dazzling Spodumain",璀璨灰岩,16,100,1e35,0,37,Isogen,同位聚合体,0.01,1,0,0,1150
+46688,"Dazzling Spodumain",璀璨灰岩,16,100,1e35,0,38,Nocxium,超新星诺克石,0.01,1,0,0,184
+46688,"Dazzling Spodumain",璀璨灰岩,16,100,1e35,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,92
+46688,"Dazzling Spodumain",璀璨灰岩,16,100,1e35,0,40,Megacyte,超噬矿,0.01,1,0,0,46
+46689,"Stable Veldspar",坚固凡晶石,0.1,100,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,460
+46691,"Compressed Flawless Arkonor",高密度无暇艾克诺岩,8.8,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3680
+46691,"Compressed Flawless Arkonor",高密度无暇艾克诺岩,8.8,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,1380
+46691,"Compressed Flawless Arkonor",高密度无暇艾克诺岩,8.8,1,1,0,40,Megacyte,超噬矿,0.01,1,0,0,138
+46692,"Compressed Cubic Bistot",高密度双多特石立方体,4.4,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,3680
+46692,"Compressed Cubic Bistot",高密度双多特石立方体,4.4,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,1380
+46692,"Compressed Cubic Bistot",高密度双多特石立方体,4.4,1,1,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,184
+46693,"Compressed Pellucid Crokite",高密度透明克洛基石,7.81,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,920
+46693,"Compressed Pellucid Crokite",高密度透明克洛基石,7.81,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,2300
+46693,"Compressed Pellucid Crokite",高密度透明克洛基石,7.81,1,1,0,38,Nocxium,超新星诺克石,0.01,1,0,0,920
+46694,"Compressed Jet Ochre",高密度墨黑赭石,4.2,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,1564
+46694,"Compressed Jet Ochre",高密度墨黑赭石,4.2,1,1,0,37,Isogen,同位聚合体,0.01,1,0,0,1380
+46694,"Compressed Jet Ochre",高密度墨黑赭石,4.2,1,1,0,38,Nocxium,超新星诺克石,0.01,1,0,0,368
+46695,"Compressed Brilliant Gneiss",高密度光辉片麻岩,1.8,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,2300
+46695,"Compressed Brilliant Gneiss",高密度光辉片麻岩,1.8,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,1725
+46695,"Compressed Brilliant Gneiss",高密度光辉片麻岩,1.8,1,1,0,37,Isogen,同位聚合体,0.01,1,0,0,920
+46696,"Compressed Lustrous Hedbergite",高密度光辉同位原矿,0.47,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,518
+46696,"Compressed Lustrous Hedbergite",高密度光辉同位原矿,0.47,1,1,0,38,Nocxium,超新星诺克石,0.01,1,0,0,138
+46697,"Compressed Scintillating Hemorphite",高密度闪烁希莫非特,0.86,1,1,0,37,Isogen,同位聚合体,0.01,1,0,0,276
+46697,"Compressed Scintillating Hemorphite",高密度闪烁希莫非特,0.86,1,1,0,38,Nocxium,超新星诺克石,0.01,1,0,0,104
+46698,"Compressed Immaculate Jaspet",高密度洁净杰斯贝矿,0.15,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,173
+46698,"Compressed Immaculate Jaspet",高密度洁净杰斯贝矿,0.15,1,1,0,38,Nocxium,超新星诺克石,0.01,1,0,0,58
+46699,"Compressed Resplendant Kernite",高密度华丽水硼砂,0.19,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,69
+46699,"Compressed Resplendant Kernite",高密度华丽水硼砂,0.19,1,1,0,37,Isogen,同位聚合体,0.01,1,0,0,138
+46700,"Compressed Platinoid Omber",高密度铂族奥贝尔石,0.3,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,104
+46700,"Compressed Platinoid Omber",高密度铂族奥贝尔石,0.3,1,1,0,37,Isogen,同位聚合体,0.01,1,0,0,86
+46701,"Compressed Sparkling Plagioclase",高密度闪耀斜长岩,0.15,1,1,0,34,Tritanium,三钛合金,0.01,1,0,0,201
+46701,"Compressed Sparkling Plagioclase",高密度闪耀斜长岩,0.15,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,81
+46702,"Compressed Opulent Pyroxeres",高密度丰裕干焦岩,0.16,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,104
+46702,"Compressed Opulent Pyroxeres",高密度丰裕干焦岩,0.16,1,1,0,36,Mexallon,类银超金属,0.01,1,0,0,35
+46703,"Compressed Glossy Scordite",高密度光泽灼烧岩,0.19,1,1,0,34,Tritanium,三钛合金,0.01,1,0,0,173
+46703,"Compressed Glossy Scordite",高密度光泽灼烧岩,0.19,1,1,0,35,Pyerite,类晶体胶矿,0.01,1,0,0,104
+46704,"Compressed Dazzling Spodumain",高密度璀璨灰岩,28,1,1,0,34,Tritanium,三钛合金,0.01,1,0,0,55200
+46704,"Compressed Dazzling Spodumain",高密度璀璨灰岩,28,1,1,0,37,Isogen,同位聚合体,0.01,1,0,0,1150
+46704,"Compressed Dazzling Spodumain",高密度璀璨灰岩,28,1,1,0,38,Nocxium,超新星诺克石,0.01,1,0,0,184
+46704,"Compressed Dazzling Spodumain",高密度璀璨灰岩,28,1,1,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,92
+46704,"Compressed Dazzling Spodumain",高密度璀璨灰岩,28,1,1,0,40,Megacyte,超噬矿,0.01,1,0,0,46
+46705,"Compressed Stable Veldspar",高密度坚固凡晶石,0.15,1,4000,0,34,Tritanium,三钛合金,0.01,1,0,0,460
+48916,"Cthonic Attar",克斯阿塔,6,100,1e35,0,48927,"Chromodynamic Tricarboxyls",色动力学三羧基,1,1,0,0,4
+49787,"Hiemal Tricarboxyl Vapor",冰冷三羧基蒸汽,10,15,0,0,48927,"Chromodynamic Tricarboxyls",色动力学三羧基,1,1,0,0,1
+49789,"Hiemal Tricarboxyl Condensate",冰冷三羧基冷凝物,6,100,1e35,0,48927,"Chromodynamic Tricarboxyls",色动力学三羧基,1,1,0,0,2
+50015,"Amethystic Crystallite",紫晶羧基沉淀物,3,1000,1e35,0,48927,"Chromodynamic Tricarboxyls",色动力学三羧基,1,1,0,0,2
+52306,Talassonite,塔拉岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,40000
+52306,Talassonite,塔拉岩,16,100,0,0,38,Nocxium,超新星诺克石,0.01,1,0,0,960
+52306,Talassonite,塔拉岩,16,100,0,0,40,Megacyte,超噬矿,0.01,1,0,0,32
+52315,Rakovene,拉克岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,40000
+52315,Rakovene,拉克岩,16,100,0,0,37,Isogen,同位聚合体,0.01,1,0,0,3200
+52315,Rakovene,拉克岩,16,100,0,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,200
+52316,Bezdnacine,贝兹岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,40000
+52316,Bezdnacine,贝兹岩,16,100,0,0,37,Isogen,同位聚合体,0.01,1,0,0,4800
+52316,Bezdnacine,贝兹岩,16,100,0,0,40,Megacyte,超噬矿,0.01,1,0,0,128
+56625,"Abyssal Talassonite",深渊塔拉岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,42000
+56625,"Abyssal Talassonite",深渊塔拉岩,16,100,0,0,38,Nocxium,超新星诺克石,0.01,1,0,0,1008
+56625,"Abyssal Talassonite",深渊塔拉岩,16,100,0,0,40,Megacyte,超噬矿,0.01,1,0,0,34
+56626,"Hadal Talassonite",哈达尔塔拉岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,44000
+56626,"Hadal Talassonite",哈达尔塔拉岩,16,100,0,0,38,Nocxium,超新星诺克石,0.01,1,0,0,1056
+56626,"Hadal Talassonite",哈达尔塔拉岩,16,100,0,0,40,Megacyte,超噬矿,0.01,1,0,0,35
+56627,"Abyssal Bezdnacine",深渊贝兹岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,42000
+56627,"Abyssal Bezdnacine",深渊贝兹岩,16,100,0,0,37,Isogen,同位聚合体,0.01,1,0,0,5040
+56627,"Abyssal Bezdnacine",深渊贝兹岩,16,100,0,0,40,Megacyte,超噬矿,0.01,1,0,0,134
+56628,"Hadal Bezdnacine",哈达尔贝兹岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,44000
+56628,"Hadal Bezdnacine",哈达尔贝兹岩,16,100,0,0,37,Isogen,同位聚合体,0.01,1,0,0,5280
+56628,"Hadal Bezdnacine",哈达尔贝兹岩,16,100,0,0,40,Megacyte,超噬矿,0.01,1,0,0,141
+56629,"Abyssal Rakovene",深渊拉克岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,42000
+56629,"Abyssal Rakovene",深渊拉克岩,16,100,0,0,37,Isogen,同位聚合体,0.01,1,0,0,3360
+56629,"Abyssal Rakovene",深渊拉克岩,16,100,0,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,210
+56630,"Hadal Rakovene",哈达尔拉克岩,16,100,0,0,34,Tritanium,三钛合金,0.01,1,0,0,44000
+56630,"Hadal Rakovene",哈达尔拉克岩,16,100,0,0,37,Isogen,同位聚合体,0.01,1,0,0,3520
+56630,"Hadal Rakovene",哈达尔拉克岩,16,100,0,0,39,Zydrine,晶状石英核岩,0.01,1,0,0,220
